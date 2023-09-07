@@ -22,7 +22,7 @@ Feel free to explore these projects and provide feedback or contributions!
 
 ## Skills
 
-- Programming languages: [! C/C++](https://cdn1.iconfinder.com/data/icons/programming-thinline/92/thinline38-13-64.png), [!Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png)
+- Programming languages: C/C++, Python
 - Web Development: HTML, CSS, JavaScript
 - Database Management: MongoDB
 - Problem Solving and Algorithm Design
