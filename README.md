@@ -11,7 +11,7 @@ Here are some of the projects I've been working on:
    - A personal portfolio website where I showcase my skills and projects.
 
 2. **WhetherForecast**
-   - [![WhetherForecast](https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github)](https://github.com/hack-09/WhetherForecast)
+   - [![WhetherForecast](https://img.shields.io/badge/View-Website-green?style=for-the-badge&logo=web)](https://hack-09.github.io/WhetherForecast/)
    - A weather forecasting project that demonstrates my coding and data analysis skills.
 
 3. **Recipe Sharing Platform**
@@ -22,7 +22,7 @@ Feel free to explore these projects and provide feedback or contributions!
 
 ## Skills
 
-- Programming languages: C/C++, Python
+- Programming languages: [! C/C++](https://cdn1.iconfinder.com/data/icons/programming-thinline/92/thinline38-13-64.png), [!Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png)
 - Web Development: HTML, CSS, JavaScript
 - Database Management: MongoDB
 - Problem Solving and Algorithm Design
