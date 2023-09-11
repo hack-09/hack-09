@@ -11,7 +11,7 @@ Here are some of the projects I've been working on:
    - A personal portfolio website where I showcase my skills and projects.
 
 2. **WhetherForecast**
-   - [![WhetherForecast](https://img.shields.io/badge/View-Website-green?style=for-the-badge&logo=web)](https://whetherforecast-oc11.onrender.com/) 
+   - [![WhetherForecast](https://img.shields.io/badge/View-Website-green?style=for-the-badge&logo=web)](https://whetherforecast.onrender.com/) 
    - A weather forecasting project that demonstrates my coding and data analysis skills.
 
 3. **Recipe Sharing Platform**
