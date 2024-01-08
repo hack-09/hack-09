@@ -18,6 +18,10 @@ Here are some of the projects I've been working on:
    - [![Recipe Sharing Platform](https://img.shields.io/badge/View-Website-orange?style=for-the-badge&logo=web)](https://recipesharingplatform.onrender.com/)
    - An interactive platform for sharing and discovering recipes.
 
+4. **Recipe-Hub**
+   - [![Recipe-Hub](https://img.shields.io/badge/View-Website-orange?style=for-the-badge&logo=web)](https://github.com/hack-09/Recipe-Hub#recipe-hub)
+   - Android project of Recipe Hub app where user can share their favrouite food recipe with others with creative idea.
+
 Feel free to explore these projects and provide feedback or contributions!
 
 ## Skills
