@@ -26,7 +26,7 @@ Feel free to explore these projects and provide feedback or contributions!
 
 ## Skills
 
-- Programming languages: C/C++, Python
+- Programming languages: C/C++, Java
 - Web Development: HTML, CSS, JavaScript
 - Database Management: MongoDB
 - Problem Solving and Algorithm Design
