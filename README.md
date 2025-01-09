@@ -32,7 +32,8 @@ Feel free to explore these projects and provide feedback or contributions!
 
 - Programming languages: C/C++, Java
 - Web Development: HTML, CSS, JavaScript
-- Database Management: MongoDB
+- Backend Framework: Node.js, Express.js
+- Database Management: MongoDB, SQL
 - Problem Solving and Algorithm Design
 
 ## Connect with Me
