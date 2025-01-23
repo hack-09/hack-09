@@ -26,6 +26,10 @@ Here are some of the projects I've been working on:
    - [![Portfolio](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://tictactoe-y5p2.onrender.com/)
    - A React-based Tic-Tac-Toe game with a user-friendly interface and gameplay history tracking.
 
+5. **Event Management**
+   - [![Eventify](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)]((https://event-management-platform-beta.vercel.app/))
+   - A powerful and intuitive platform to simplify event planning, attendee management, ticketing, and performance tracking.
+
 Feel free to explore these projects and provide feedback or contributions!
 
 ## Skills
