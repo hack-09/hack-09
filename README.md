@@ -10,25 +10,25 @@ Here are some of the projects I've been working on:
    - [![Portfolio](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://portfolio-8aez.onrender.com)
    - A personal portfolio website where I showcase my skills and projects.
 
-2. **WhetherForecast**
-   - [![WhetherForecast](https://img.shields.io/badge/View-Website-green?style=for-the-badge&logo=web)](https://whetherforecast.onrender.com/) 
-   - A weather forecasting project that demonstrates my coding and data analysis skills.
+2. **Event Management**
+   - [![Eventify](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://event-management-platform-beta.vercel.app/)
+   - A powerful and intuitive platform to simplify event planning, attendee management, ticketing, and performance tracking.
 
 3. **Recipe Sharing Platform**
    - [![Recipe Sharing Platform](https://img.shields.io/badge/View-Website-orange?style=for-the-badge&logo=web)](https://recipesharingplatform.onrender.com/)
    - An interactive platform for sharing and discovering recipes.
 
-4. **Recipe-Hub**
+4. **TicTacToe**
+   - [![Portfolio](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://tictactoe-y5p2.onrender.com/)
+   - A React-based Tic-Tac-Toe game with a user-friendly interface and gameplay history tracking.
+   
+5. **Recipe-Hub**
    - [![Recipe-Hub](https://img.shields.io/badge/View-Website-orange?style=for-the-badge&logo=web)](https://github.com/hack-09/Recipe-Hub#recipe-hub)
    - Android project of Recipe Hub app where user can share their favrouite food recipe with others with creative idea.
 
-5. **TicTacToe**
-   - [![Portfolio](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://tictactoe-y5p2.onrender.com/)
-   - A React-based Tic-Tac-Toe game with a user-friendly interface and gameplay history tracking.
-
-5. **Event Management**
-   - [![Eventify](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://event-management-platform-beta.vercel.app/)
-   - A powerful and intuitive platform to simplify event planning, attendee management, ticketing, and performance tracking.
+6. **WhetherForecast**
+   - [![WhetherForecast](https://img.shields.io/badge/View-Website-green?style=for-the-badge&logo=web)](https://whetherforecast.onrender.com/) 
+   - A weather forecasting project that demonstrates my coding and data analysis skills.
 
 Feel free to explore these projects and provide feedback or contributions!
 
