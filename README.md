@@ -1,47 +1,60 @@
-# Hello, I'm Priyanshu Kumar 👋
+# 👋 Hello, I'm Priyanshu Kumar 
 
-I'm a **Computer Science and Engineering (CSE)** student at **Chandigarh University**. I'm passionate about exploring the world of technology, and my interests and hobbies include coding, software development, and staying updated with the latest tech trends. I'm enthusiastic about building innovative solutions and honing my skills in the field of computer science.
+**🎓 Computer Science Engineer** | **🚀 Full-Stack Developer** | **💡 Tech Enthusiast**  
+*Chandigarh University* | Passionate about building innovative solutions & exploring cutting-edge technologies
 
-## Projects
+[![Portfolio Shield](https://img.shields.io/badge/🌐_Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-8aez.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukumar9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hack-09)
 
-Here are some of the projects I've been working on:
+---
 
-1. **Portfolio**
-   - [![Portfolio](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://portfolio-8aez.onrender.com)
-   - A personal portfolio website where I showcase my skills and projects.
+## 🛠️ Tech Stack
 
-2. **Event Management**
-   - [![Eventify](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://event-management-platform-beta.vercel.app/)
-   - A powerful and intuitive platform to simplify event planning, attendee management, ticketing, and performance tracking.
+### **Core Languages**
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-3. **Recipe Sharing Platform**
-   - [![Recipe Sharing Platform](https://img.shields.io/badge/View-Website-orange?style=for-the-badge&logo=web)](https://recipesharingplatform.onrender.com/)
-   - An interactive platform for sharing and discovering recipes.
+### **Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-4. **TicTacToe**
-   - [![Portfolio](https://img.shields.io/badge/View-Website-blue?style=for-the-badge&logo=html5)](https://tictactoe-y5p2.onrender.com/)
-   - A React-based Tic-Tac-Toe game with a user-friendly interface and gameplay history tracking.
-   
-5. **Recipe-Hub**
-   - [![Recipe-Hub](https://img.shields.io/badge/View-Website-orange?style=for-the-badge&logo=web)](https://github.com/hack-09/Recipe-Hub#recipe-hub)
-   - Android project of Recipe Hub app where user can share their favrouite food recipe with others with creative idea.
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-6. **WhetherForecast**
-   - [![WhetherForecast](https://img.shields.io/badge/View-Website-green?style=for-the-badge&logo=web)](https://whetherforecast.onrender.com/) 
-   - A weather forecasting project that demonstrates my coding and data analysis skills.
+---
 
-Feel free to explore these projects and provide feedback or contributions!
+## 🚀 Featured Projects
 
-## Skills
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **🍳 Recipe Sharing Platform** | Community-driven recipe exchange platform | React, Node.js, MongoDB | [![Live](https://img.shields.io/badge/🌐_Live-FF6B6B?style=flat-square)](https://recipesharingplatform.onrender.com/) |
+| **🎉 Eventify** | Event management solution with analytics | MERN Stack | [![Live](https://img.shields.io/badge/🚀_Demo-9C27B0?style=flat-square)](https://event-management-platform-beta.vercel.app/) |
+| **⛅ WeatherForecast** | Real-time weather tracking system | React, OpenWeather API | [![Live](https://img.shields.io/badge/☁️_Demo-2196F3?style=flat-square)](https://whetherforecast.onrender.com/) |
+| **❌⭕ TicTacToe** | Interactive game with history tracking | React, TypeScript | [![Live](https://img.shields.io/badge/🎮_Play-4CAF50?style=flat-square)](https://tictactoe-y5p2.onrender.com/) |
 
-- Programming languages: C/C++, Java
-- Web Development: HTML, CSS, JavaScript
-- Backend Framework: Node.js, Express.js
-- Database Management: MongoDB, SQL
-- Problem Solving and Algorithm Design
+---
 
-## Connect with Me
+## 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/priyanshukumar9/)
-- [GitHub](https://github.com/hack-09)
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hack-09&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-09&layout=compact&theme=radical)](https://github.com/hack-09)
+
+---
+
+## 📬 Let's Connect!
+
+- 🔗 [Portfolio Website](https://portfolio-8aez.onrender.com)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/priyanshukumar9/)
+- 📧 priyanshukr2703@gmail.com
+- 📱 +91 810233xxxx
+
+---
+
+⭐ **Fun Fact:** I believe every problem has an elegant software solution waiting to be discovered!  
+💬 *"First, solve the problem. Then, write the code."* - John Johnson
