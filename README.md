@@ -23,6 +23,7 @@
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/Android-G99032?style=flat-square&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -41,7 +42,7 @@
 
 ## 📈 GitHub Stats
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilx&show_icons=true&theme=radical)
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hack-09&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-09&layout=compact&theme=radical)](https://github.com/hack-09)
 
@@ -51,8 +52,8 @@
 
 - 🔗 [Portfolio Website](https://portfolio-8aez.onrender.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/priyanshukumar9/)
-- 📧 priyanshukr2703@gmail.com
-- 📱 +91 810233xxxx
+- 📧 priyanshukumar9780@gmail.com
+- 📱 +91 7986025569
 
 ---
 
