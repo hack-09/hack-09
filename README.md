@@ -41,7 +41,7 @@
 
 ## 📈 GitHub Stats
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hack-09&show_icons=true&theme=radical)
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilx&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-09&layout=compact&theme=radical)](https://github.com/hack-09)
 
