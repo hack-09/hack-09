@@ -49,6 +49,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-09&layout=compact&theme=radical)](https://github.com/hack-09)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hack-09&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack-09&theme=react-dark)
+
 ---
 
 ## 📬 Let's Connect!
