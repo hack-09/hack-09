@@ -53,8 +53,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hack-09&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hack-09&theme=react-dark)
-
 ---
 
 ## 📬 Let's Connect!
