@@ -47,6 +47,18 @@ Passionate software engineer with expertise in building scalable web application
 
 ## 🚀 Featured Projects
 
+### **🔍 Product Verification System**
+Simple database-connected app for verifying product authenticity
+* **Tech:** MERN Stack, QR Code, Firebase, JWT Authentication
+* **Features:** Product verification via QR, admin dashboard, secure product registration
+* **Live Demo:** [Product Verification](https://product-verification-two.vercel.app/)
+
+### **💰 Expense Tracker**
+Smart expense management and analytics platform
+* **Tech:** React, Chart.js, PostgreSQL, .Net (WebApi), Docker 
+* **Features:** User authentication, expense categorization, visual analytics dashboard
+* **Live Demo:** [Expense Tracker](https://expense-tracker-gold-eta.vercel.app/)
+
 ### **🛍️ Aryloft - E-commerce Platform**
 Modern e-commerce solution with seamless user experience
 - **Tech:** React, Firebase, Redux, Google Authentication
@@ -64,18 +76,6 @@ Comprehensive event planning and analytics platform
 - **Tech:** MERN Stack, Chart.js, JWT Authentication
 - **Features:** Event creation, participant tracking, analytics dashboard
 - **Live Demo:** [Eventify](https://event-management-platform-beta.vercel.app/)
-
-### **🔍 Product Verification System**
-Simple database-connected app for verifying product authenticity
-* **Tech:** MERN Stack, QR Code, Firebase, JWT Authentication
-* **Features:** Product verification via QR, admin dashboard, secure product registration
-* **Live Demo:** [Product Verification](https://product-verification-two.vercel.app/)
-
-### **💰 Expense Tracker**
-Smart expense management and analytics platform
-* **Tech:** React, Chart.js, PostgreSQL, .Net (WebApi), Docker 
-* **Features:** User authentication, expense categorization, visual analytics dashboard
-* **Live Demo:** [Expense Tracker](https://expense-tracker-gold-eta.vercel.app/)
 
 ---
 
