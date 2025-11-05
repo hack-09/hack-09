@@ -65,17 +65,17 @@ Comprehensive event planning and analytics platform
 - **Features:** Event creation, participant tracking, analytics dashboard
 - **Live Demo:** [Eventify](https://event-management-platform-beta.vercel.app/)
 
-### **📝 TaskFlow - Productivity Suite**
-Advanced task management with team collaboration
-- **Tech:** React, Node.js, MongoDB, Socket.io
-- **Features:** Real-time updates, team workspaces, progress tracking
-- **Live Demo:** [TaskFlow](https://task-management-self-sigma.vercel.app/)
+### **🔍 Product Verification System**
+Simple database-connected app for verifying product authenticity
+* **Tech:** MERN Stack, QR Code, Firebase, JWT Authentication
+* **Features:** Product verification via QR, admin dashboard, secure product registration
+* **Live Demo:** [Product Verification](https://product-verification-two.vercel.app/)
 
-### **⛅ WeatherForecast Pro**
-Real-time weather analytics and forecasting
-- **Tech:** React, OpenWeather API, Chart.js
-- **Features:** Location-based forecasts, historical data, interactive maps
-- **Live Demo:** [WeatherForecast](https://whetherforecast.onrender.com/)
+### **💰 Expense Tracker**
+Smart expense management and analytics platform
+* **Tech:** React, Chart.js, PostgreSQL, .Net (WebApi), Docker 
+* **Features:** User authentication, expense categorization, visual analytics dashboard
+* **Live Demo:** [Expense Tracker](https://expense-tracker-gold-eta.vercel.app/)
 
 ---
 
